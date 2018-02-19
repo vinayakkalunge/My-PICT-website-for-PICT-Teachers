@@ -1,0 +1,11 @@
+#register{
+    -webkit-animation-duration:1.5s;
+    -moz-animation-duration:1.5s;
+    -webkit-animation-iteration-count:infinite;
+    -moz-animation-iteration-count:infinite;
+}
+
+ul.nav.navbar-nav.navbar-right > li > a:hover, ul.nav.navbar-nav.navbar-right > li.active1,ul.nav.navbar-nav.navbar-right > li > a:focus,ul.nav.navbar-nav.navbar-right > li > a:visited {
+    color: #000;
+    background-color: orange !important;
+}
